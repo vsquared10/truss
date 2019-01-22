@@ -1,0 +1,5 @@
+.ipynb_checkpoints/
+sample.csv
+sample-with-broken-utf8.csv
+
+venv/
